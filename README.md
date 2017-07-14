@@ -11,7 +11,7 @@ I never actually did anything with it, though. There don't exactly seem to be a 
 
 Dunno.
 
-Since I'm an open-source kind of guy, I thus hereby decline copyright on my genetic code and am offering it under the terms of CC: by-nc-sa (https://creativecommons.org/licenses/by-nc-sa/4.0/) to the public at large. Go ahead and get creative with this...
+Since I'm an open-source kind of guy, I'm thus hereby relaxing copyright on my genetic code and am offering it under the terms of CC: by-nc-sa (https://creativecommons.org/licenses/by-nc-sa/4.0/) to the public at large. Go ahead and get creative with this...
 
 ;)
 
