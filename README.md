@@ -15,4 +15,4 @@ Since I'm an open-source kind of guy, I'm thus hereby relaxing copyright on my g
 
 ;)
 
-[The file was too large for upload, so I split it into two parts. Jut put them back together into one in a text-editor or such...]
+[The file was too large for upload, so I split it into two parts. Just put them back together into one in a text-editor or such...]
